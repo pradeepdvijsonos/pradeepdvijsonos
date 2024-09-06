@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am new to this
+
 <!--
 **pradeepdvijsonos/pradeepdvijsonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
